@@ -1,6 +1,6 @@
-
 # 📦 Bellande Extremum Optimization
 ## Multi-Dimensional/Infinity-Dimensional Extremum Optimization
+## BEO(Bellande Extremum Optimization) Algorithm API
 
 # Check Out Research Organization for open-source/semi-open-source API
 - https://robotics-sensors.github.io
